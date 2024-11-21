@@ -7,6 +7,6 @@ tags: [Hello World]
 
 ---
 
-# Hello World
+# Hello Worlds
 
 Hello Hi this is my personal blog.
