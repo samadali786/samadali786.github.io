@@ -130,11 +130,11 @@ VirusTotal detection of the malicious file (invest_20.dll):
 
 
 VirusTotal detail tab showing the malware uses many other names:
-![mal_names](assets\img\dechttptraf\mal_names.png)
+![mal_names](assets/img/dechttptraf/mal_names.png)
 
 
 VirusTotal detail tab showing that malware also import many other system .dll files:
-![imp_sys_dll](assets\img\dechttptraf\mal_import.png)
+![imp_sys_dll](assets/img/dechttptraf/mal_import.png)
 
 
 # Conclusion
