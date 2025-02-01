@@ -29,7 +29,7 @@ Client "Hello" TLS Handshake request with TLS 1.2 version:
 
 
 Client supporting TLS 1.3 and TLS 1.2 TLS Handshake versions:
-![clientversup](assets\img\deepseekpcap\client_supported_tls_version.png)
+![clientversup](assets/img/deepseekpcap/client_supported_tls_version.png)
 
 
 # 3 Analyzing the TLS Handshake protocl version of the server response "Hello"
@@ -37,14 +37,14 @@ Client supporting TLS 1.3 and TLS 1.2 TLS Handshake versions:
 In this step, I analyzed the TLS Handshake of the server response "Hello" from the packet detail pane and found that the server uses TLS 1.1 version, which was a deprecated TLS Handshake version because of security flaws.
 
 Server using TLS 1.1 TLS Handshake version:
-![serverres](assets\img\deepseekpcap\server_hello_tls_v1.1.png)
+![serverres](assets/img/deepseekpcap/server_hello_tls_v1.1.png)
 
 # 4 Analyzing the TLS Handshake protocol version mismatch error from client
 
 In this step, I analyzed the next client packet after getting the "hello" response from the server, and found that the client did not want to continue the connection with the server due to the protocol version mismatch error, because the client did not support the deprecated (TLS 1.0, TLS 1.1) versions, and server send response by using TLS 1.1 version.
 
 Client not supporting server TLS 1.1 TLS Handshake version:
-![clientnotsup](assets\img\deepseekpcap\client_not_sup_ver1.1.png)
+![clientnotsup](assets/img/deepseekpcap/client_not_sup_ver1.1.png)
 
 After analyzed the network traffic in Wireshark I found that there is a TLS handshake protocol version mismatch error, so I decided to try
 DeepSeek AI assistance to check if it wil able to figured out this problem.
@@ -63,11 +63,11 @@ DeepSeek AI able to found the TLS protocol version mismatch error with the Serve
 format.
 
 DeepSeek AI response related to TLS protocol version mismatch error:
-![deepseeresp](assets\img\deepseekpcap\DeepSeek_resp.png)
+![deepseeresp](assets/img/deepseekpcap/DeepSeek_resp.png)
 
 
 DeepSeek AI Key Evidence from the PCAP:
-![deepseekyev](assets\img\deepseekpcap\key_evidence_DeepSeek.png)
+![deepseekyev](assets/img/deepseekpcap/key_evidence_DeepSeek.png)
 
 
 # Conclusion
