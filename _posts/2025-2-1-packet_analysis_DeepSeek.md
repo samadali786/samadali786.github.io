@@ -72,7 +72,7 @@ DeepSeek AI Key Evidence from the PCAP:
 
 # Conclusion
 
-In this activity I was trying to figure out if DeepSeek AI was able to find the protocol mismatch error from the (.pcap) file, and it was successfully able to figure out the problem with the valid response and key evidence, but I am not sure yet if it could be able to provide solutions to the more complex packet capture analysis solutions.
+In this activity I was trying to figure out if DeepSeek AI was able to find the protocol mismatch error from the (.pcap) file, and it was successfully able to figure out the problem with the valid response and key evidence, but I am not sure yet if it could be able to provide solutions to the more complex packet capture analysis.
 
 
 
