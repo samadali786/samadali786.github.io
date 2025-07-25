@@ -10,7 +10,7 @@ tags: [Malware Analysis]
 
 # Overview
 
-In this project, I practically learned how to create a reverse TCP shell between attacker and target Virtual Machines, by using proper networking configuration in a sandboxing environment, and using different tools. Initially, I started this project by setting up the two Virtual Machines using Oracle Virtual Box one was the attacker VM which was the Kali Linux OS, and the other one was the target VM which was Windows 10 OS. Then I configured the correct network settings between these two VM's so that they were properly connected with each other without affecting the local host for malware analysis. Finally, I successfully created a reverse TCP shell on the attacker Kali Linux VM so that it remotely controlled the target Windows 10 VM. The following are the types of tools that I used to complete this project.
+In this Cybersecurity lab project, I practically learned how to create a reverse TCP shell between attacker and target Virtual Machines, by using proper networking configuration in a sandboxing environment, and using different tools. Initially, I started this project by setting up the two Virtual Machines using Oracle Virtual Box one was the attacker VM which was the Kali Linux OS, and the other one was the target VM which was Windows 10 OS. Then I configured the correct network settings between these two VM's so that they were properly connected with each other without affecting the local host for malware analysis. Finally, I successfully created a reverse TCP shell on the attacker Kali Linux VM so that it remotely controlled the target Windows 10 VM. The following are the types of tools that I used to complete this project.
 
 
 1) Oracle Virtual Box for setting up attacker and target Virtual Machines with proper network configuration.<br>
@@ -211,7 +211,7 @@ Reverse Shell created successfully on the Attacker Kali Linux VM and ran other t
 
 # Conclusion
 
-In this project, I successfully created a reverse TCP shell between Attacker and Target Virtual Machines for Malware Analysis. I also practically learned how to select and create the payload malware using the CLI tool Msfvenom from the Metasploit framework on the attacker machine and send it to the victim or target machine, and then how to create the reverse TCP shell to remotely control the target machine.
+In this Cybersecurity lab project, I successfully created a reverse TCP shell between Attacker and Target Virtual Machines for Malware Analysis. I also practically learned how to select and create the payload malware using the CLI tool Msfvenom from the Metasploit framework on the attacker machine and send it to the victim or target machine, and then how to create the reverse TCP shell to remotely control the target machine.
 
 
 
