@@ -63,10 +63,10 @@ Analyzing "CVE-2025-53770" from NIST NVD(National Vulnerability Database) websit
 
 In this final step, I gathered all the artifacts and added them to the Artifacts findings in the Let's Defend playbook section for documentation and finally added the note and closed the alert to complete the alert process. I was successfully able to complete this alert by understanding and answering each question correctly.
 
-Adding Artifacts that I found from this alert process:
+Adding Artifacts that I found from this alert:
 ![artfacts](assets/img/letsdefendSOC342/findings.png)
 
-Successfully completed the alert:
+Successfully completed the alert process:
 ![alrtcompl](assets/img/letsdefendSOC342/succ_comp_alert.png)
 
 
