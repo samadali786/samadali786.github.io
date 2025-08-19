@@ -13,11 +13,11 @@ tags: [Malware Analysis]
 In this Cybersecurity lab project, I practically learned how to create a reverse TCP shell between attacker and target Virtual Machines, by using proper networking configuration in a sandboxing environment, and using different tools. Initially, I started this project by setting up the two Virtual Machines using Oracle Virtual Box one was the attacker VM which was the Kali Linux OS, and the other one was the target VM which was Windows 10 OS. Then I configured the correct network settings between these two VM's so that they were properly connected with each other without affecting the local host for malware analysis. Finally, I successfully created a reverse TCP shell on the attacker Kali Linux VM so that it remotely controlled the target Windows 10 VM. The following are the types of tools that I used to complete this project.
 
 
-1) Oracle Virtual Box for setting up attacker and target Virtual Machines with proper network configuration.<br>
-2) Nmap to target the open port on the target virtual machine.<br>
-3) Msfvenom CLI from Metasploit Framework for setting up the malware payload.<br>
-4) Using Python CLI for setting up the HTTP server on attacker VM.<br>
-5) Creating a reverse TCP shell to control the target VM (Windows 10) from the attacker VM (Kali Linux).<br>
+**1) Oracle Virtual Box for setting up attacker and target Virtual Machines with proper network configuration.**<br>
+**2) Nmap to target the open port on the target virtual machine.**<br>
+**3) Msfvenom CLI from Metasploit Framework for setting up the malware payload.**<br>
+**4) Using Python CLI for setting up the HTTP server on attacker VM.**<br>
+**5) Creating a reverse TCP shell to control the target VM (Windows 10) from the attacker VM (Kali Linux).**<br>
 
 
 # Steps for setting up the Network configurarion and assigning static IP's to the Attacker and Target Virtual Machines

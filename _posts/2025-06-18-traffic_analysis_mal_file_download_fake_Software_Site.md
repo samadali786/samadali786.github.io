@@ -18,17 +18,12 @@ In this network traffic analysis activity, I analyze the "2025-01-22-traffic-ana
 
 # LAN Segment Details Given From The PCAP File
 
-1) LAN segment range: 10.1.17.0/24 (10.1.17.0 through 10.1.17.255).<br>
-
-2) Domain: bluemoontuesday.com.<br>
-
-3) Active Directory (AD) domain controller: 10.1.17.2 - WIN-GSH54QLW48D.<br>
-
-4) AD environment name: BLUEMOONTUESDAY.<br>
-
-5) LAN segment gateway: 10.1.17.1.<br>
-
-6) LAN segment broadcast address: 10.1.17.255.<br>
+**1) LAN segment range: 10.1.17.0/24 (10.1.17.0 through 10.1.17.255).**<br>
+**2) Domain: bluemoontuesday.com.**<br>
+**3) Active Directory (AD) domain controller: 10.1.17.2 - WIN-GSH54QLW48D.**<br>
+**4) AD environment name: BLUEMOONTUESDAY.**<br>
+**5) LAN segment gateway: 10.1.17.1.**<br>
+**6) LAN segment broadcast address: 10.1.17.255.**<br>
 
 
 # Steps taken to find malicious behaviour in the PCAP file

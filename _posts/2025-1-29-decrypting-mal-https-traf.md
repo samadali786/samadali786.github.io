@@ -13,10 +13,10 @@ Decrypting and analyzing the malicious HTTPS traffic is one of the role that is 
 
 In this project I use already captured malicious (Malicious_HTTPS_SSL-TLS.pcap) packet capture file and (Key_Log_file.txt) which consist of SSL enctyption keys that is use for decrypting the malicious traffic in Malicious_HTTPS_SSL_TLS.pcap file for analysis, and extract the malicious file all using Wireshark tool, and then use VirusTotal to detect the malicious file content from the decrypted packet, below are the items and tools that I used to complete this project.
 
- 1) Malicious_HTTPS_SSL-TLS.pcap.<br>
- 2) Key_Log_file.txt.<br>
- 3) Wireshark tool.<br>
- 4) VirusTotal.<br>
+ **1) Malicious_HTTPS_SSL-TLS.pcap.**<br>
+ **2) Key_Log_file.txt.**<br>
+ **3) Wireshark tool.**<br>
+ **4) VirusTotal.**<br>
 
 
 # What is Wireshark?
