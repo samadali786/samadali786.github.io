@@ -1,8 +1,8 @@
 ---
 
-title: "How to Install Sysmon and Ingest Sysmon Logs to Splunk and How to Perform Http and SSH Log Analysis in Splunk"
+title: "How to Install Sysmon and Ingest Sysmon Logs to Splunk and How to Perform HTTP and SSH Log Analysis in Splunk"
 date: "2025-09-29 00:00:00"
-categories: [Log Analysis, How to Install Sysmon and Ingest Sysmon Logs to Splunk and How to Perform Http and SSH Log Analysis in Splunk]
+categories: [Log Analysis, How to Install Sysmon and Ingest Sysmon Logs to Splunk and How to Perform HTTP and SSH Log Analysis in Splunk]
 tags: [Log Analysis]
 
 ---
