@@ -170,7 +170,7 @@ To find the top 10 endpoints with the failed SSH login attempts, I used the two 
    | head 10
 ```
 Using the "auth_success" intresting filed in Splunk: 
-![ssh_faillogintr](assets\img\SplunkLogAnalysis\Quest_1_failed-SSH_log_Intrest_fiel.png)
+![ssh_faillogintr](assets/img/SplunkLogAnalysis/Quest_1_failed-SSH_log_Intrest_fiel.png)
 
 SPL query for Top 10 endpoints with failed SSH Login attempts in Splunk:
 ![ssh_faillogattp](assets/img/SplunkLogAnalysis/Quest_1_failed_SSH_log_attemp_10.png)
