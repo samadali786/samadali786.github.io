@@ -9,7 +9,7 @@ tags: [Log Analysis]
 
 # Overview
 
-In this log analysis activity, I downloaded and installed Sysmon driver using PowerShell and then using Microsoft Event Viewer tools to convert Sysmon logs into ".evtx" format and then ingest the logs in Splunk Enterprise in Windows 10 VM. In the second part of this activity, I performed HTTP and SSH Log Analysis tasks by filtering and extracting the useful information from the logs using SPL (Search Processing Language) queries and Intresting fileds in Splunk. 
+In this log analysis activity, I downloaded and installed Sysmon driver using PowerShell and then using Microsoft Event Viewer tools to convert Sysmon logs into ".evtx" format and then ingest the logs in Splunk Enterprise in Windows 10 VM. In the second part of this activity I performed HTTP and SSH Log Analysis tasks by filtering and extracting the useful information from the logs using SPL (Search Processing Language) queries and Intresting fileds in Splunk. 
 
 # Installing Sysmon Driver and Sysmon config file in Windows 10 VM
 
