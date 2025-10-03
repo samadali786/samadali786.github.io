@@ -2,7 +2,7 @@
 
 title: "How to use Burp Suite with DVWA Vulnerable Web Application"
 date: "2025-08-12 00:00:00"
-categories: [Web Application Security, Network Packet Analysis, How to use Burp Suite with DVWA Vulnerable Web Application]
+categories: [Web Application Security, How to use Burp Suite with DVWA Vulnerable Web Application]
 tags: [Web Application Security]
 
 ---

@@ -2,7 +2,7 @@
 
 title: "Network Packet Analysis of TLS traffic with Wireshark and DeepSeek AI"
 date: "2025-1-31 00:00:00"
-categories: [Activities, Network Packet Analysis, Network Packet Analysis with Wireshark and DeepSeek AI]
+categories: [Network Packet Analysis, Network Packet Analysis with Wireshark and DeepSeek AI]
 tags: [Malware Analysis]
 
 ---

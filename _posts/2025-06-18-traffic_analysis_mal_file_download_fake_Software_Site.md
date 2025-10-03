@@ -2,7 +2,7 @@
 
 title: "Traffic Analysis of Malicious file downloaded from Fake Software Site"
 date: "2025-06-18 00:00:00"
-categories: [Activities, Network Packet Analysis, Traffic Analysis of Malicious file downloaded from Fake Software Site]
+categories: [Network Packet Analysis, Traffic Analysis of Malicious file downloaded from Fake Software Site]
 tags: [Malware Analysis]
 
 ---
